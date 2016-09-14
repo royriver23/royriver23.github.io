@@ -6,27 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
-email: your-email@domain.com
+title: Roy Rivera Zamora
+email: roy.fita23@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  main_skills = ['Ruby on Rails', 'Javascript', 'CSS', 'HTML']
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "royriver23.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
-#instagram_username: beyonce
-#stackoverflow_url: https://
-#googleplus_username: BobMarley
-#skype_username: echo123
-#linkedin_url: https://
+twitter_username: RoyRiver
+github_username:  royriver23
+facebook_username: royrz
+stackoverflow_url: http://stackoverflow.com/users/1301469/roy-rivera-zamora
+skype_username: royriver23
+linkedin_url: https://www.linkedin.com/in/roy-rivera-zamora-b3a31a21?trk=hp-identity-name
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
+address_street: San Pedro
+address_city: San José
+address_state: Costa Rica
 address_zip: 90201
 
 # Build settings

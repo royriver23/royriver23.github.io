@@ -1,0 +1,43 @@
+.rounded-image {
+  border-radius: 100%;
+  border-style: solid;
+  opacity: 0.8;
+  text-align: right;
+}
+
+.rounded-image:hover {
+  opacity: 1;
+  -webkit-filter: blur(0);
+}
+
+header {
+  background-image: url('/img/code_background.png');
+  background: #000000 url('/img/code_background.gif') no-repeat;
+  background-size: 100%;
+}
+
+header:hover {
+  opacity: 1;
+}
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}

@@ -9,7 +9,7 @@
 title: Roy Rivera Zamora
 email: roy.fita23@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  main_skills = ['Ruby on Rails', 'Javascript', 'CSS', 'HTML']
+  Ruby on Rails Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "royriver23.github.io" # the base hostname & protocol for your site
 

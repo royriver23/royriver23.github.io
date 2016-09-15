@@ -20,6 +20,31 @@ header:hover {
   opacity: 1;
 }
 
+#skills {
+  background-color: black;
+}
+
+hr.star-light:after {
+  background-color: transparent;
+  color: red;
+  content: url('/img/rails_logo.png');
+}
+
+hr.star-light {
+  border-color: #7F0A13;
+}
+
+.description {
+  color: linear-gradient(left, red , yellow);
+}
+
+.name {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#FFFFFF, #606060);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;

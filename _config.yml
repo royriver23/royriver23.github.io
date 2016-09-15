@@ -25,7 +25,7 @@ linkedin_url: https://www.linkedin.com/in/roy-rivera-zamora-b3a31a21?trk=hp-iden
 address_street: San Pedro
 address_city: San José
 address_state: Costa Rica
-address_zip: 90201
+address_zip: 
 
 # Build settings
 markdown: kramdown
